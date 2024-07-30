@@ -1,10 +1,18 @@
 [
     {
-        "name": "Silly Billy YA4KRG Port.",
+        "name": "Silly Billy - Hit Single Real",
         "download": "https://raw.githubusercontent.com/yophlox/YA4kRG-OnlineMaps/main/sillybilly.zip"
     },
     {
-        "name": "Run Insane",
+        "name": "Run Insane - Bob's Onslaught",
         "download": "https://raw.githubusercontent.com/yophlox/YA4kRG-OnlineMaps/main/run-insane.zip"
-    }
+    },
+    {
+        "name": "Supernovae - Dave and Bambi",
+        "download": "https://raw.githubusercontent.com/yophlox/YA4kRG-OnlineMaps/main/supernovae.zip"
+    },
+    {
+        "name": "Velma's Spam Challenge - Vs Velma Team",
+        "download": "https://raw.githubusercontent.com/yophlox/YA4kRG-OnlineMaps/main/velma-spam-challenge.zip"
+    },
 ]
