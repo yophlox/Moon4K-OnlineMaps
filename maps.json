@@ -3,25 +3,29 @@
         "name": "Silly Billy - Hit Single Real",
         "download": "https://raw.githubusercontent.com/yophlox/YA4kRG-OnlineMaps/main/sillybilly.zip",
         "desc": "A port of the Silly Billy song from Friday Night Funkin' Hit Single Real Mod!",
-        "author": "YoPhlox & The Hit Single Real Team"
+        "author": "YoPhlox & The Hit Single Real Team",
+        "image": "https://raw.githubusercontent.com/yophlox/YA4kRG-OnlineMaps/main/thumbnails/billy.png"
     },
     {
         "name": "Run Insane - Bob's Onslaught",
         "download": "https://raw.githubusercontent.com/yophlox/YA4kRG-OnlineMaps/main/run-insane.zip",
         "desc": "That one hidden run chart from Bob's Onslaught.",
-        "author": "YoPhlox & Bob's Onslaught Team"
+        "author": "YoPhlox & Bob's Onslaught Team",
+        "image": "https://raw.githubusercontent.com/yophlox/YA4kRG-OnlineMaps/main/thumbnails/bob.png"
     },
     {
         "name": "Supernovae - Dave & Bambi Chart",
         "download": "https://raw.githubusercontent.com/yophlox/YA4kRG-OnlineMaps/main/supernovae.zip",
         "desc": "Holy peak.",
-        "author": "YoPhlox & Dave & Bambi Team"
+        "author": "YoPhlox & Dave & Bambi Team",
+        "image": "https://raw.githubusercontent.com/yophlox/YA4kRG-OnlineMaps/main/thumbnails/bamb.png"
     },
     {
         "name": "Velma's Spam Challenge - Vs Velma",
         "download": "https://raw.githubusercontent.com/yophlox/YA4kRG-OnlineMaps/main/velmas-spam-challenge.zip",
         "desc": "tray de",
-        "author": "YoPhlox & The V.S. Velma Team"
+        "author": "YoPhlox & The V.S. Velma Team",
+        "image": "https://raw.githubusercontent.com/yophlox/YA4kRG-OnlineMaps/main/thumbnails/velma.png"
     },
     {
         "name": "The Weekend 1 Pack (FNF)",
