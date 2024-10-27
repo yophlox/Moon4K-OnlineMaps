@@ -1,9 +1,26 @@
 [
     {
         "name": "CheatReal",
-        "download": "https://raw.githubusercontent.com/yophlox/YA4kRG-OnlineMaps/main/cheatreal.zip",
+        "download": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/charts/cheatreal.zip",
         "desc": "Ya like Jumpstreams?",
         "author": "t+pazolite & DragonLazer",
-        "image": "https://raw.githubusercontent.com/yophlox/YA4kRG-OnlineMaps/main/thumbnails/cheat.png"
+        "image": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/thumbnails/cheat.png"
+    },
+    /*
+    {
+        "name": "Edms AO",
+        "download": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/edmspack.zip",
+        "desc": "Technical & JumpStream Charts, the best for destroying your hands properly.",
+        "author": "Edmspack",
+        "image": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/thumbnails/edmspack.png"
     }
+    */
+    {
+        "name": "val's minigrinds (gec heavy charts, edited by yophlox)",
+        "download": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/charts/valminigrinds.zip",
+        "desc": "Contains 4 Songs",
+        "author": "Val, yophlox & others",
+        "image": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/thumbnails/smOnlineLogo.png"
+    }
+    
 ]
