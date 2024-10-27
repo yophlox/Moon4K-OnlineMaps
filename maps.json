@@ -10,7 +10,14 @@
         "name": "vals minigrinds (gec heavy charts)",
         "download": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/charts/valminigrinds.zip",
         "desc": "Contains 5 Songs",
-        "author": "Val, yophlox & others",
+        "author": "Val & others",
+        "image": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/thumbnails/smOnlineLogo.png"
+    },
+    {
+        "name": "Touhou Pad Pack Rebirth",
+        "download": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/charts/touhoupadpack.zip",
+        "desc": "Contains 16 Songs",
+        "author": "too many people to list",
         "image": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/thumbnails/smOnlineLogo.png"
     }
 ]
