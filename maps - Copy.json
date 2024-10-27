@@ -6,6 +6,15 @@
         "author": "t+pazolite & DragonLazer",
         "image": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/thumbnails/cheat.png"
     },
+    /*
+    {
+        "name": "Edms AO",
+        "download": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/edmspack.zip",
+        "desc": "Technical & JumpStream Charts, the best for destroying your hands properly.",
+        "author": "Edmspack",
+        "image": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/thumbnails/edmspack.png"
+    }
+    */
     {
         "name": "val's minigrinds (gec heavy charts, edited by yophlox)",
         "download": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/charts/valminigrinds.zip",
@@ -13,4 +22,5 @@
         "author": "Val, yophlox & others",
         "image": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/thumbnails/smOnlineLogo.png"
     }
+    
 ]
