@@ -19,5 +19,40 @@
         "desc": "Contains 16 Songs",
         "author": "too many people to list",
         "image": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/thumbnails/smOnlineLogo.png"
+    },
+    {
+        "name": "Silly Billy - Hit Single Real",
+        "download": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/charts/sillybilly.zip",
+        "desc": "A port of the Silly Billy song from Friday Night Funkin' Hit Single Real Mod!",
+        "author": "YoPhlox & The Hit Single Real Team",
+        "image": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/thumbnails/billy.png"
+    },
+    {
+        "name": "Run Insane - Bob's Onslaught",
+        "download": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/charts/run-insane.zip",
+        "desc": "That one hidden run chart from Bob's Onslaught.",
+        "author": "YoPhlox & Bob's Onslaught Team",
+        "image": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/thumbnails/bob.png"
+    },
+    {
+        "name": "Supernovae - Dave & Bambi Chart",
+        "download": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/charts/supernovae.zip",
+        "desc": "Holy peak.",
+        "author": "YoPhlox & Dave & Bambi Team",
+        "image": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/thumbnails/bamb.png"
+    },
+    {
+        "name": "Velma's Spam Challenge - Vs Velma",
+        "download": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/charts/velmas-spam-challenge.zip",
+        "desc": "tray de",
+        "author": "YoPhlox & The V.S. Velma Team",
+        "image": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/thumbnails/velma.png"
+    },
+    {
+        "name": "The Weekend 1 Pack (FNF)",
+        "download": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/charts/Weekend1Pack.zip",
+        "desc": "A full-ass port of the Weekend 1 songs and charts from the Friday Night Funkin' Update",
+        "author": "YoPhlox & The Funkin' Crew inc.",
+        "image": "https://raw.githubusercontent.com/yophlox/Moon4K-OnlineMaps/main/thumbnails/weekend1.png"
     }
 ]
